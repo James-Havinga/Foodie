@@ -13,7 +13,7 @@
 #### For development, the latest version of Android Studio is required. The latest version can be downloaded from [here](https://developer.android.com/studio).
 
 ## Please note incase of errors when building
-#### If any errors occur while building the project and more specificaly and error saying : (public final class BuildConfig) please rebuild the project by clicking build in the top tab and then clicking rebuild project, once you have successfully rebuilt the project try building the project to your virtual device.
+#### If any errors occur while building the project and more specificaly and error saying : (duplicate resources) please rebuild the project by clicking build in the top tab and then clicking rebuild project, once you have successfully rebuilt the project try building the project to your virtual device.
 
 ## Installing 
 1. Clone the repo
