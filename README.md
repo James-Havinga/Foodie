@@ -1,5 +1,5 @@
 # Foodie
-#### Foodie is an application whereby users can share thier favourite recipes and meals with others. This application was built using Android Studio and is written in Kotlin
+#### Foodie is an application whereby users can share thier favourite recipes and meals with others. This application was built using Android Studio and is written in Kotlin aswell as google Firebase for the backend.
 
 
 ## Getting Started
@@ -23,6 +23,7 @@
 
 ## Built With
 * Android studio using kotlin
+* Google Firebase
 
 ## Contributing 
 #### If anybody would like to contribute or make some changes to the project they are more than welcome to do so. Any contributions you make would be greatly appreciated.
