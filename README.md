@@ -5,6 +5,10 @@
 ## Getting Started
 #### These instructions will get you a copy of the project up and running on your local machine for development and testing purposes
 
+## User login details
+1. Email : test@test.com
+2. Password : password
+
 ## Prequisites
 #### For development, the latest version of Android Studio is required. The latest version can be downloaded from [here](https://developer.android.com/studio).
 
